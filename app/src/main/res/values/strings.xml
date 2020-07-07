@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Show Toast</string>
+    <string name="choose_toppings">choose_toppings</string>
+    <string name="syrup">syrup</string>
+    <string name="sprinkles">sprinkles</string>
+    <string name="crushed_nuts">crushed_nuts</string>
+    <string name="oreo">oreo</string>
+    <string name="show_toast">show_toast</string>
+    <string name="cherries">cherries</string>
+</resources>

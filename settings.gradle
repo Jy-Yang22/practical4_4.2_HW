@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "practical4_4.2_HW"
